@@ -119,8 +119,8 @@ st.set_page_config(
 
 st.title("☕ Gestione Cassa Comune Caffè")
 st.markdown(
-    "Avvicina lo smartphone all'adesivo NFC per registrare velocemente il tuo"
-    " caffè o il versamento!"
+    "Powered by affinity  maintenance team "
+    
 )
 
 # Menu laterale
